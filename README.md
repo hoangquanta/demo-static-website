@@ -1,1 +1,1 @@
-# demo-static-website
+# demo-static-responsive-website
